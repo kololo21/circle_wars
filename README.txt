@@ -1,6 +1,6 @@
 
 
-デモ動画: https://github.com/kololo21/circle_wars/releases/download/v1.0/demo.mp4
+デモ動画: https://github.com/kololo21/circle_wars/releases/download/v1.0/CS_17_LAST-6.1.mp4
 取得: git clone --recursive https://github.com/kololo21/circle_wars.git
 
 ゲーム名:CIRCLE WARS
