@@ -1,5 +1,8 @@
 
 
+デモ動画: https://github.com/kololo21/circle_wars/releases/download/v1.0/demo.mp4
+取得: git clone --recursive https://github.com/kololo21/circle_wars.git
+
 ゲーム名:CIRCLE WARS
 
 概要:好きな武器を使って爽快に敵を倒していき､レベルアップと武器レベルアップで強くなる!!
