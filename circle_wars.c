@@ -472,8 +472,7 @@ int main(void) {
     InitAudioDevice();
 
     GameAudio audio;
-    // BGM is not bundled; place a file at this path to enable it (the game runs silently without it)
-    audio.mainBgm = LoadMusicStream("resources/audio/bgm.mp3");
+    audio.mainBgm = LoadMusicStream("resources/audio/Phantom_Protocol.mp3");
     audio.seSlash = LoadSound("resources/audio/se_slash.mp3");
     audio.seDamage = LoadSound("resources/audio/se_damage.mp3");
     audio.seHeal = LoadSound("resources/audio/se_heal.mp3");
